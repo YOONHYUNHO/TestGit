@@ -10,6 +10,6 @@
 </h1>
 <img src = "./res/24.jpg" width = "300" border = "5">
 <img src = "./res/25.jpg" width = "300" border = "5">
-<h2>자동 배포 확인</h2>
+<h2>CI/CD COMPLETE</h2>
 </body>
 </html>
