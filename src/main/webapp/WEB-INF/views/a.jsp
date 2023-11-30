@@ -6,7 +6,10 @@
 </head>
 <body>
 <h1>
- 로그인 기능 완성  
+	hello
 </h1>
+<img src = "./res/24.jpg" width = "300" border = "5">
+<img src = "./res/25.jpg" width = "300" border = "5">
+<h2>자동 배포 확인</h2>
 </body>
 </html>
